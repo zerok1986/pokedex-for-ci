@@ -1,3 +1,5 @@
+[![Deployment Pipeline](https://github.com/zerok1986/pokedex-for-ci/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/zerok1986/pokedex-for-ci/actions/workflows/pipeline.yaml)
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
